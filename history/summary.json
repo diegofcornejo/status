@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/diegocornejo.com",
     "slug": "diego-cornejo",
     "status": "up",
-    "uptime": "4.54%",
-    "uptimeDay": "4.54%",
-    "uptimeWeek": "4.54%",
-    "uptimeMonth": "4.54%",
-    "uptimeYear": "4.54%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1546,
     "timeDay": 1546,
     "timeWeek": 1546,
     "timeMonth": 1546,
     "timeYear": 1546,
-    "dailyMinutesDown": {
-      "2022-02-03": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google",
