@@ -6,13 +6,7 @@ sites:
   - name: Diego Cornejo
     url: https://diegocornejo.com
   - name: thirdAuth
-    url: https://www.thirdauth.com
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+    url: https://thirdauth.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
