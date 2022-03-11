@@ -4,10 +4,10 @@
     "url": "https://diegocornejo.com",
     "icon": "https://favicons.githubusercontent.com/diegocornejo.com",
     "slug": "diego-cornejo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1109,
@@ -15,16 +15,18 @@
     "timeWeek": 2103,
     "timeMonth": 1229,
     "timeYear": 1109,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 1
+    }
   },
   {
     "name": "thirdAuth",
     "url": "https://thirdauth.com",
     "icon": "https://favicons.githubusercontent.com/thirdauth.com",
     "slug": "third-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 340,
     "timeMonth": 375,
     "timeYear": 387,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 0
+    }
   },
   {
     "name": "MDC - JTP Server",
