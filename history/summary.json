@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 1054,
-    "timeDay": 544,
-    "timeWeek": 804,
-    "timeMonth": 1168,
-    "timeYear": 1054,
+    "time": 1048,
+    "timeDay": 725,
+    "timeWeek": 818,
+    "timeMonth": 1169,
+    "timeYear": 1048,
     "dailyMinutesDown": {
       "2022-03-11": 25
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/thirdauth.com",
     "slug": "third-auth",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.96%",
-    "time": 376,
-    "timeDay": 226,
-    "timeWeek": 348,
-    "timeMonth": 384,
-    "timeYear": 376,
+    "uptimeYear": "99.97%",
+    "time": 371,
+    "timeDay": 159,
+    "timeWeek": 307,
+    "timeMonth": 373,
+    "timeYear": 371,
     "dailyMinutesDown": {
       "2022-03-11": 24
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 44,
-    "timeDay": 59,
-    "timeWeek": 45,
-    "timeMonth": 43,
+    "timeDay": 53,
+    "timeWeek": 47,
+    "timeMonth": 44,
     "timeYear": 44,
     "dailyMinutesDown": {}
   }
