@@ -4,17 +4,17 @@
     "url": "https://diegocornejo.com",
     "icon": "https://favicons.githubusercontent.com/diegocornejo.com",
     "slug": "diego-cornejo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
     "uptimeDay": "84.36%",
     "uptimeWeek": "97.77%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.84%",
-    "time": 887,
-    "timeDay": 600,
-    "timeWeek": 651,
-    "timeMonth": 723,
-    "timeYear": 887,
+    "time": 880,
+    "timeDay": 549,
+    "timeWeek": 635,
+    "timeMonth": 712,
+    "timeYear": 880,
     "dailyMinutesDown": {
       "2022-05-24": 227,
       "2022-03-11": 25
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 352,
-    "timeDay": 394,
-    "timeWeek": 255,
-    "timeMonth": 283,
-    "timeYear": 352,
+    "time": 350,
+    "timeDay": 136,
+    "timeWeek": 257,
+    "timeMonth": 264,
+    "timeYear": 350,
     "dailyMinutesDown": {
       "2022-03-11": 24
     }
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 44,
-    "timeDay": 38,
-    "timeWeek": 46,
-    "timeMonth": 46,
+    "timeDay": 5,
+    "timeWeek": 47,
+    "timeMonth": 45,
     "timeYear": 44,
     "dailyMinutesDown": {}
   }
