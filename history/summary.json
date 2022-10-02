@@ -2,7 +2,7 @@
   {
     "name": "Diego Cornejo",
     "url": "https://diegocornejo.com",
-    "icon": "https://favicons.githubusercontent.com/diegocornejo.com",
+    "icon": "https://icons.duckduckgo.com/ip3/diegocornejo.com.ico",
     "slug": "diego-cornejo",
     "status": "up",
     "uptime": "99.91%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 822,
-    "timeDay": 427,
-    "timeWeek": 793,
-    "timeMonth": 816,
-    "timeYear": 822,
+    "time": 823,
+    "timeDay": 1018,
+    "timeWeek": 800,
+    "timeMonth": 800,
+    "timeYear": 823,
     "dailyMinutesDown": {
       "2022-05-25": 38,
       "2022-05-24": 236,
@@ -24,7 +24,7 @@
   {
     "name": "thirdAuth",
     "url": "https://thirdauth.com",
-    "icon": "https://favicons.githubusercontent.com/thirdauth.com",
+    "icon": "https://icons.duckduckgo.com/ip3/thirdauth.com.ico",
     "slug": "third-auth",
     "status": "up",
     "uptime": "99.99%",
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 316,
-    "timeDay": 195,
-    "timeWeek": 354,
-    "timeMonth": 301,
-    "timeYear": 316,
+    "time": 318,
+    "timeDay": 724,
+    "timeWeek": 382,
+    "timeMonth": 319,
+    "timeYear": 318,
     "dailyMinutesDown": {
       "2022-03-11": 24
     }
@@ -44,7 +44,7 @@
   {
     "name": "MDC - JTP Server",
     "url": "$MDC_IP",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mdc-jtp-server",
     "status": "up",
     "uptime": "99.98%",
@@ -53,9 +53,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 40,
-    "timeDay": 4,
-    "timeWeek": 36,
-    "timeMonth": 33,
+    "timeDay": 40,
+    "timeWeek": 35,
+    "timeMonth": 32,
     "timeYear": 40,
     "dailyMinutesDown": {
       "2022-09-21": 36,
