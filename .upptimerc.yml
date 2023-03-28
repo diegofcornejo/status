@@ -5,6 +5,12 @@ repo: status # The name of this repository
 sites:
   - name: Diego Cornejo
     url: https://diegocornejo.com
+  - name: Diego Cornejo's Blog
+    url: https://blog.diegocornejo.com
+  - name: Jupyter Lite
+    url: https://jupyter.diegocornejo.com
+  - name: Codi Link
+    url: https://code.diegocornejo.com
   - name: thirdAuth
     url: https://thirdauth.com
   - name: MDC - JTP Server
