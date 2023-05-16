@@ -101,9 +101,9 @@
     "url": "$MDC_IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mdc-jtp-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -113,6 +113,7 @@
     "timeMonth": 26,
     "timeYear": 34,
     "dailyMinutesDown": {
+      "2023-05-16": 0,
       "2022-09-21": 36,
       "2022-06-17": 16,
       "2022-06-06": 23
