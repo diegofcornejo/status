@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 922,
-    "timeDay": 381,
-    "timeWeek": 939,
-    "timeMonth": 1030,
+    "timeDay": 943,
+    "timeWeek": 921,
+    "timeMonth": 1043,
     "timeYear": 939,
     "dailyMinutesDown": {
       "2022-12-05": 15,
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 165,
-    "timeDay": 77,
-    "timeWeek": 168,
-    "timeMonth": 185,
-    "timeYear": 165,
+    "time": 170,
+    "timeDay": 530,
+    "timeWeek": 193,
+    "timeMonth": 196,
+    "timeYear": 170,
     "dailyMinutesDown": {}
   },
   {
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 133,
-    "timeDay": 141,
-    "timeWeek": 139,
-    "timeMonth": 131,
-    "timeYear": 133,
+    "time": 132,
+    "timeDay": 72,
+    "timeWeek": 125,
+    "timeMonth": 132,
+    "timeYear": 132,
     "dailyMinutesDown": {}
   },
   {
@@ -67,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 115,
-    "timeDay": 127,
-    "timeWeek": 133,
-    "timeMonth": 121,
-    "timeYear": 115,
+    "time": 114,
+    "timeDay": 83,
+    "timeWeek": 118,
+    "timeMonth": 122,
+    "timeYear": 114,
     "dailyMinutesDown": {}
   },
   {
@@ -86,9 +86,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 319,
-    "timeDay": 266,
-    "timeWeek": 282,
-    "timeMonth": 299,
+    "timeDay": 220,
+    "timeWeek": 252,
+    "timeMonth": 300,
     "timeYear": 312,
     "dailyMinutesDown": {
       "2023-02-23": 20
@@ -106,14 +106,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 36,
-    "timeDay": 8,
-    "timeWeek": 22,
-    "timeMonth": 37,
+    "timeDay": 2,
+    "timeWeek": 16,
+    "timeMonth": 35,
     "timeYear": 33,
     "dailyMinutesDown": {
       "2022-09-21": 36,
-      "2022-06-17": 16,
-      "2022-06-06": 23
+      "2022-06-17": 16
     }
   }
 ]
