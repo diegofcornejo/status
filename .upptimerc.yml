@@ -15,10 +15,6 @@ sites:
     url: https://thirdauth.com
   - name: Evolution - Web
     url: https://evolutionygo.com
-  - name: Evolution - EDOPro Server
-    check: "tcp-ping"
-    url: $EVOLUTION_HOST
-    port: $EVOLUTION_PORT
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
