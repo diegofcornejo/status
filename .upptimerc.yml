@@ -13,10 +13,12 @@ sites:
     url: https://code.diegocornejo.com
   - name: thirdAuth
     url: https://thirdauth.com
-  - name: MDC - JTP Server
+  - name: Evolution - Web
+    url: https://evolutionygo.com
+  - name: Evolution - EDOPro Server
     check: "tcp-ping"
-    url: $MDC_IP
-    port: $MDC_PORT
+    url: $EVOLUTION_HOST
+    port: $EVOLUTION_PORT
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
