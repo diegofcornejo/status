@@ -104,17 +104,19 @@
     "url": "https://evolutionygo.com",
     "icon": "https://icons.duckduckgo.com/ip3/evolutionygo.com.ico",
     "slug": "evolution-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2771,
-    "timeDay": 875,
-    "timeWeek": 1472,
-    "timeMonth": 2771,
-    "timeYear": 2771,
-    "dailyMinutesDown": {}
+    "time": 3121,
+    "timeDay": 5847,
+    "timeWeek": 2406,
+    "timeMonth": 3121,
+    "timeYear": 3121,
+    "dailyMinutesDown": {
+      "2023-08-13": 0
+    }
   }
 ]
