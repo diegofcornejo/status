@@ -65,18 +65,20 @@
     "url": "https://code.diegocornejo.com",
     "icon": "https://icons.duckduckgo.com/ip3/code.diegocornejo.com.ico",
     "slug": "codi-link",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 160,
-    "timeDay": 158,
-    "timeWeek": 193,
-    "timeMonth": 188,
+    "timeDay": 127,
+    "timeWeek": 181,
+    "timeMonth": 185,
     "timeYear": 160,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-12": 0
+    }
   },
   {
     "name": "thirdAuth",
