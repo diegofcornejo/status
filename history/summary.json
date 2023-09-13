@@ -66,18 +66,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/code.diegocornejo.com.ico",
     "slug": "codi-link",
     "status": "down",
-    "uptime": "99.42%",
-    "uptimeDay": "2.06%",
-    "uptimeWeek": "86.01%",
-    "uptimeMonth": "96.78%",
-    "uptimeYear": "99.42%",
+    "uptime": "99.11%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "78.46%",
+    "uptimeMonth": "95.04%",
+    "uptimeYear": "99.11%",
     "time": 160,
-    "timeDay": 148,
+    "timeDay": 199,
     "timeWeek": 186,
     "timeMonth": 185,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2023-09-13": 11,
+      "2023-09-13": 771,
       "2023-09-12": 1400
     }
   },
@@ -107,17 +107,19 @@
     "url": "https://evolutionygo.com",
     "icon": "https://icons.duckduckgo.com/ip3/evolutionygo.com.ico",
     "slug": "evolution-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2834,
-    "timeDay": 4101,
-    "timeWeek": 2348,
-    "timeMonth": 2876,
-    "timeYear": 2834,
-    "dailyMinutesDown": {}
+    "time": 2963,
+    "timeDay": 7145,
+    "timeWeek": 3219,
+    "timeMonth": 3084,
+    "timeYear": 2963,
+    "dailyMinutesDown": {
+      "2023-09-13": 0
+    }
   }
 ]
