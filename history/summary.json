@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 913,
-    "timeDay": 556,
-    "timeWeek": 759,
-    "timeMonth": 787,
-    "timeYear": 988,
+    "timeDay": 1019,
+    "timeWeek": 797,
+    "timeMonth": 801,
+    "timeYear": 987,
     "dailyMinutesDown": {
       "2023-08-08": 25,
       "2023-06-13": 83,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 126,
-    "timeDay": 24,
-    "timeWeek": 107,
-    "timeMonth": 89,
+    "timeDay": 146,
+    "timeWeek": 101,
+    "timeMonth": 91,
     "timeYear": 126,
     "dailyMinutesDown": {
       "2023-08-08": 24
@@ -54,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 157,
-    "timeDay": 55,
-    "timeWeek": 79,
-    "timeMonth": 131,
+    "timeDay": 248,
+    "timeWeek": 109,
+    "timeMonth": 132,
     "timeYear": 157,
     "dailyMinutesDown": {}
   },
@@ -66,18 +66,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/code.diegocornejo.com.ico",
     "slug": "codi-link",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.42%",
+    "uptimeDay": "2.06%",
+    "uptimeWeek": "86.01%",
+    "uptimeMonth": "96.78%",
+    "uptimeYear": "99.42%",
     "time": 160,
-    "timeDay": 127,
-    "timeWeek": 181,
+    "timeDay": 148,
+    "timeWeek": 186,
     "timeMonth": 185,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2023-09-12": 0
+      "2023-09-13": 11,
+      "2023-09-12": 1400
     }
   },
   {
@@ -91,9 +92,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 310,
-    "timeDay": 134,
-    "timeWeek": 206,
+    "time": 311,
+    "timeDay": 609,
+    "timeWeek": 258,
     "timeMonth": 439,
     "timeYear": 323,
     "dailyMinutesDown": {
@@ -112,11 +113,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2811,
-    "timeDay": 966,
-    "timeWeek": 2305,
-    "timeMonth": 2781,
-    "timeYear": 2811,
+    "time": 2834,
+    "timeDay": 4101,
+    "timeWeek": 2348,
+    "timeMonth": 2876,
+    "timeYear": 2834,
     "dailyMinutesDown": {}
   }
 ]
