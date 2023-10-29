@@ -9,8 +9,6 @@ sites:
     url: https://blog.diegocornejo.com
   - name: Jupyter Lite
     url: https://jupyter.diegocornejo.com
-  - name: Codi Link
-    url: https://code.diegocornejo.com
   - name: thirdAuth
     url: https://thirdauth.com
   - name: Evolution - Web
