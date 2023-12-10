@@ -7,12 +7,14 @@ sites:
     url: https://diegocornejo.com
   - name: Diego Cornejo's Blog
     url: https://blog.diegocornejo.com
+  - name: Evolution - Web
+    url: https://evolutionygo.com
+  - name: Lora Packet Decoder
+    url: https://lora-packet.vercel.app
   - name: Jupyter Lite
     url: https://jupyter.diegocornejo.com
   - name: thirdAuth
     url: https://thirdauth.com
-  - name: Evolution - Web
-    url: https://evolutionygo.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -28,6 +30,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Linkedin
+      href: https://www.linkedin.com/in/diego-cornejo-devops-sre/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
