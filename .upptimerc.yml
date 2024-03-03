@@ -7,21 +7,28 @@ sites:
     url: https://diegocornejo.com
   - name: Diego Cornejo's Blog
     url: https://blog.diegocornejo.com
-  - name: Evolution - Web
+  - name: Evolution YGO - Web
     url: https://evolutionygo.com
+  - name: Evolution YGO - API
+    url: https://evolutionygo.com/api/rooms
+  - name: Evolution YGO - WSS
+    check: "tcp-ping"
+    url: server.evolutionygo.com
+    port: 4000
+    icon: https://evolutionygo.com/favicon.ico
   - name: Lora Packet Decoder
     url: https://lora-packet.vercel.app
   - name: Jupyter Lite
     url: https://jupyter.diegocornejo.com
-  - name: thirdAuth
-    url: https://thirdauth.com
+    icon: https://jupyter.diegocornejo.com/lab/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.diegocornejo.com
   #baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://cdn.hashnode.com/res/hashnode/image/upload/v1698957678963/IFY8BII0M.jpeg
+  favicon: https://cdn.hashnode.com/res/hashnode/image/upload/v1698957678963/IFY8BII0M.jpeg
   name: Diego Cornejo | Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
