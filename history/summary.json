@@ -65,19 +65,19 @@
     "url": "https://evolutionygo.com/api/rooms",
     "icon": "https://icons.duckduckgo.com/ip3/evolutionygo.com.ico",
     "slug": "evolution-ygo-api",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 2646,
-    "timeDay": 5119,
-    "timeWeek": 2646,
-    "timeMonth": 2646,
-    "timeYear": 2646,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 2148,
+    "timeDay": 3465,
+    "timeWeek": 2148,
+    "timeMonth": 2148,
+    "timeYear": 2148,
     "dailyMinutesDown": {
-      "2024-03-05": 1
+      "2024-03-05": 9
     }
   },
   {
@@ -85,19 +85,19 @@
     "url": "server.evolutionygo.com",
     "icon": "https://evolutionygo.com/favicon.ico",
     "slug": "evolution-ygo-wss",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 30,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 29,
     "timeDay": 26,
-    "timeWeek": 30,
-    "timeMonth": 30,
-    "timeYear": 30,
+    "timeWeek": 29,
+    "timeMonth": 29,
+    "timeYear": 29,
     "dailyMinutesDown": {
-      "2024-03-05": 0
+      "2024-03-05": 8
     }
   },
   {
