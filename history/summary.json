@@ -4,18 +4,19 @@
     "url": "https://diegocornejo.com",
     "icon": "https://icons.duckduckgo.com/ip3/diegocornejo.com.ico",
     "slug": "diego-cornejo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 968,
+    "time": 969,
     "timeDay": 1384,
     "timeWeek": 1296,
     "timeMonth": 1152,
     "timeYear": 1025,
     "dailyMinutesDown": {
+      "2024-10-22": 2,
       "2023-11-20": 20
     }
   },
@@ -24,18 +25,19 @@
     "url": "https://blog.diegocornejo.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.diegocornejo.com.ico",
     "slug": "diego-cornejo-s-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 66,
+    "time": 65,
     "timeDay": 51,
     "timeWeek": 59,
     "timeMonth": 63,
     "timeYear": 61,
     "dailyMinutesDown": {
+      "2024-10-22": 2,
       "2023-11-20": 18
     }
   },
@@ -44,10 +46,10 @@
     "url": "https://evolutionygo.com",
     "icon": "https://icons.duckduckgo.com/ip3/evolutionygo.com.ico",
     "slug": "evolution-ygo-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 2612,
@@ -56,6 +58,7 @@
     "timeMonth": 2121,
     "timeYear": 2612,
     "dailyMinutesDown": {
+      "2024-10-22": 1,
       "2024-06-23": 72,
       "2024-06-03": 72
     }
@@ -65,10 +68,10 @@
     "url": "https://evolutionygo.com/api/rooms",
     "icon": "https://icons.duckduckgo.com/ip3/evolutionygo.com.ico",
     "slug": "evolution-ygo-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.09%",
     "uptimeYear": "99.53%",
     "time": 570,
@@ -77,6 +80,7 @@
     "timeMonth": 395,
     "timeYear": 570,
     "dailyMinutesDown": {
+      "2024-10-22": 1,
       "2024-10-08": 397,
       "2024-08-30": 22,
       "2024-08-20": 18,
@@ -122,10 +126,10 @@
     "url": "https://lora-packet.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/lora-packet.vercel.app.ico",
     "slug": "lora-packet-decoder",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 845,
@@ -133,16 +137,18 @@
     "timeWeek": 996,
     "timeMonth": 1102,
     "timeYear": 845,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 1
+    }
   },
   {
     "name": "Jupyter Lite",
     "url": "https://jupyter.diegocornejo.com",
     "icon": "https://jupyter.diegocornejo.com/lab/favicon.ico",
     "slug": "jupyter-lite",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -151,6 +157,8 @@
     "timeWeek": 148,
     "timeMonth": 136,
     "timeYear": 130,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   }
 ]
