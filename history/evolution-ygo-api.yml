@@ -1,7 +1,7 @@
 url: https://evolutionygo.com/api/rooms
-status: up
-code: 200
-responseTime: 213
-lastUpdated: 2024-11-10T23:04:32.557Z
+status: down
+code: 500
+responseTime: 167
+lastUpdated: 2024-11-11T09:00:35.183Z
 startTime: 2024-03-03T09:11:46.039Z
 generator: Upptime <https://github.com/upptime/upptime>
