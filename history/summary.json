@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 989,
-    "timeDay": 1124,
-    "timeWeek": 1139,
-    "timeMonth": 1174,
+    "time": 990,
+    "timeDay": 1085,
+    "timeWeek": 1228,
+    "timeMonth": 1187,
     "timeYear": 1041,
-    "dailyMinutesDown": {
-      "2023-11-20": 20
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Diego Cornejo's Blog",
@@ -31,13 +29,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 65,
-    "timeDay": 61,
-    "timeWeek": 42,
-    "timeMonth": 65,
+    "timeDay": 32,
+    "timeWeek": 41,
+    "timeMonth": 64,
     "timeYear": 61,
-    "dailyMinutesDown": {
-      "2023-11-20": 18
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Evolution YGO - Web",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 2689,
-    "timeDay": 4041,
-    "timeWeek": 4045,
-    "timeMonth": 3135,
-    "timeYear": 2689,
+    "time": 2695,
+    "timeDay": 4359,
+    "timeWeek": 4080,
+    "timeMonth": 3207,
+    "timeYear": 2695,
     "dailyMinutesDown": {
       "2024-06-23": 72,
       "2024-06-03": 72
@@ -71,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.56%",
-    "time": 552,
-    "timeDay": 156,
-    "timeWeek": 144,
+    "time": 551,
+    "timeDay": 205,
+    "timeWeek": 156,
     "timeMonth": 399,
-    "timeYear": 552,
+    "timeYear": 551,
     "dailyMinutesDown": {
       "2024-10-26": 60,
       "2024-10-08": 397,
@@ -103,8 +99,8 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.58%",
     "time": 34,
-    "timeDay": 20,
-    "timeWeek": 27,
+    "timeDay": 69,
+    "timeWeek": 33,
     "timeMonth": 32,
     "timeYear": 34,
     "dailyMinutesDown": {
@@ -130,11 +126,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 853,
-    "timeDay": 1145,
+    "time": 854,
+    "timeDay": 1131,
     "timeWeek": 1096,
     "timeMonth": 936,
-    "timeYear": 853,
+    "timeYear": 854,
     "dailyMinutesDown": {}
   },
   {
@@ -149,9 +145,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 152,
-    "timeDay": 115,
-    "timeWeek": 143,
-    "timeMonth": 321,
+    "timeDay": 81,
+    "timeWeek": 122,
+    "timeMonth": 317,
     "timeYear": 147,
     "dailyMinutesDown": {}
   }
