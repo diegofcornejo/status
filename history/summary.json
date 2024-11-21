@@ -4,36 +4,40 @@
     "url": "https://diegocornejo.com",
     "icon": "https://icons.duckduckgo.com/ip3/diegocornejo.com.ico",
     "slug": "diego-cornejo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 993,
+    "time": 992,
     "timeDay": 1488,
     "timeWeek": 1278,
     "timeMonth": 1206,
     "timeYear": 1046,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-21": 1
+    }
   },
   {
     "name": "Diego Cornejo's Blog",
     "url": "https://blog.diegocornejo.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.diegocornejo.com.ico",
     "slug": "diego-cornejo-s-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 65,
+    "time": 64,
     "timeDay": 55,
     "timeWeek": 45,
     "timeMonth": 64,
     "timeYear": 62,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-21": 0
+    }
   },
   {
     "name": "Evolution YGO - Web",
