@@ -6,18 +6,16 @@
     "slug": "diego-cornejo",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 993,
     "timeDay": 1293,
     "timeWeek": 1256,
     "timeMonth": 1203,
     "timeYear": 1046,
-    "dailyMinutesDown": {
-      "2024-11-21": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Diego Cornejo's Blog",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.diegocornejo.com.ico",
     "slug": "diego-cornejo-s-blog",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 63,
     "timeDay": 40,
     "timeWeek": 43,
     "timeMonth": 63,
     "timeYear": 61,
-    "dailyMinutesDown": {
-      "2024-11-21": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Evolution YGO - Web",
@@ -65,18 +61,19 @@
     "url": "https://evolutionygo.com/api/rooms",
     "icon": "https://icons.duckduckgo.com/ip3/evolutionygo.com.ico",
     "slug": "evolution-ygo-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.57%",
-    "time": 549,
-    "timeDay": 121,
-    "timeWeek": 152,
-    "timeMonth": 392,
-    "timeYear": 549,
+    "time": 548,
+    "timeDay": 75,
+    "timeWeek": 140,
+    "timeMonth": 384,
+    "timeYear": 548,
     "dailyMinutesDown": {
+      "2024-11-21": 0,
       "2024-10-26": 60,
       "2024-10-08": 397,
       "2024-08-30": 22,
@@ -104,7 +101,7 @@
     "uptimeYear": "99.58%",
     "time": 34,
     "timeDay": 20,
-    "timeWeek": 33,
+    "timeWeek": 34,
     "timeMonth": 29,
     "timeYear": 34,
     "dailyMinutesDown": {
