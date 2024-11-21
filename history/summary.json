@@ -4,19 +4,19 @@
     "url": "https://diegocornejo.com",
     "icon": "https://icons.duckduckgo.com/ip3/diegocornejo.com.ico",
     "slug": "diego-cornejo",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 992,
-    "timeDay": 1488,
-    "timeWeek": 1278,
-    "timeMonth": 1206,
+    "time": 993,
+    "timeDay": 1293,
+    "timeWeek": 1256,
+    "timeMonth": 1203,
     "timeYear": 1046,
     "dailyMinutesDown": {
-      "2024-11-21": 1
+      "2024-11-21": 7
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://blog.diegocornejo.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.diegocornejo.com.ico",
     "slug": "diego-cornejo-s-blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 64,
-    "timeDay": 55,
-    "timeWeek": 45,
-    "timeMonth": 64,
-    "timeYear": 62,
+    "time": 63,
+    "timeDay": 40,
+    "timeWeek": 43,
+    "timeMonth": 63,
+    "timeYear": 61,
     "dailyMinutesDown": {
-      "2024-11-21": 0
+      "2024-11-21": 7
     }
   },
   {
