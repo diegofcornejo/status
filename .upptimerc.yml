@@ -10,7 +10,7 @@ sites:
   - name: Evolution YGO - Web
     url: https://evolutionygo.com
   - name: Evolution YGO - API
-    url: https://evolutionygo.com/api/rooms
+    url: https://api.evolutionygo.com/api/v1/ban-lists
   - name: Evolution YGO - WSS
     check: "tcp-ping"
     url: server.evolutionygo.com
