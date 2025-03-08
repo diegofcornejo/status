@@ -1,7 +1,7 @@
 url: https://api.evolutionygo.com/api/v1/ban-lists
-status: down
-code: 502
-responseTime: 165
-lastUpdated: 2025-03-08T01:36:28.589Z
+status: up
+code: 200
+responseTime: 253
+lastUpdated: 2025-03-08T02:00:52.057Z
 startTime: 2024-03-03T09:11:46.039Z
 generator: Upptime <https://github.com/upptime/upptime>
