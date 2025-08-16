@@ -16,7 +16,7 @@
     "timeMonth": 832,
     "timeYear": 1002,
     "dailyMinutesDown": {
-      "2025-08-16": 538,
+      "2025-08-16": 550,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
@@ -211,7 +211,7 @@
     "timeMonth": 19,
     "timeYear": 41,
     "dailyMinutesDown": {
-      "2025-08-16": 538,
+      "2025-08-16": 550,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
@@ -394,19 +394,19 @@
     "url": "https://evolutionygo.com",
     "icon": "https://icons.duckduckgo.com/ip3/evolutionygo.com.ico",
     "slug": "evolution-ygo-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2030,
+    "time": 2027,
     "timeDay": 876,
     "timeWeek": 764,
     "timeMonth": 937,
     "timeYear": 1763,
     "dailyMinutesDown": {
-      "2025-08-16": 5
+      "2025-08-16": 0
     }
   },
   {
